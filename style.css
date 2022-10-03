@@ -1,0 +1,46 @@
+.container {
+    background: linear-gradient(90deg, #edefee,#c9c9c9);
+    height:100vh;
+    overflow: hidden; 
+
+}
+
+.box_table {
+    margin: 15px auto;
+    max-width: 800px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+
+}
+
+table {
+    width: 800px;
+    margin: 2px auto;
+    background-color: rgb(255, 0, 0);
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    border-collapse: collapse;  
+
+}
+
+td, th {
+    width: 10px;
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #000;
+    
+  }
+
+  th {
+    background-color: #862260;
+    font-weight: bold;
+  }
+
+  td:hover {
+    background-color: 	#5b70e4;
+}
